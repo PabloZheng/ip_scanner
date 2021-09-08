@@ -4,6 +4,9 @@
 
 
 - 方案一：下载advanced_port_scanner
+
+  指定ip范围, 端口范围，扫描当前局域网下的存在的ip地址
+
   ![图片](https://user-images.githubusercontent.com/49506327/132463053-dd7aa13d-6803-4c4c-8990-108181710b2f.png)
 
 
