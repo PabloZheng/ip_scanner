@@ -9,10 +9,7 @@
 
 - 方案二：paramiko
 
-  pip install paramiko
-  
-  直接运行get_ip_adress_dhu.py
-  
-  替换第11行中的指定账号与密码
-  
-  便可扫描当前局域网下该账号与密码的ip
+  1. pip install paramiko
+  2. 直接运行get_ip_adress_dhu.py
+  3. 替换第11行中的指定账号与密码
+  4. 便可扫描当前局域网下该账号与密码的ip
