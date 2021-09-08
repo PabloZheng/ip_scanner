@@ -1,10 +1,13 @@
-# ip_scanner
+#  ip scanner
 
 ---
 
-- 方案一：下载advanced_port_scanner
 
-- 方案二：暴力破解
+- 方案一：下载advanced_port_scanner
+  ![图片](https://user-images.githubusercontent.com/49506327/132463053-dd7aa13d-6803-4c4c-8990-108181710b2f.png)
+
+
+- 方案二：paramiko
 
   pip install paramiko
   
